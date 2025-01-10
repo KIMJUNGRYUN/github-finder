@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types'
 import { FaGithub } from "react-icons/fa";
 import { Link } from 'react-router-dom';
 
