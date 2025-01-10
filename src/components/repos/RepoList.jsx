@@ -14,5 +14,7 @@ function RepoList({ repos }) {
 		</div>
 	);
 }
-
+RepoList.propTypes = {
+  repos: PropTypes.array.isRequired,
+};
 export default RepoList
